@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_news_app/bloc/news_bloc.dart';
-
 import 'package:flutter_news_app/view/splash_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:flutter_news_app/bloc/news_bloc.dart';
